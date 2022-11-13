@@ -1,7 +1,6 @@
 <h1 align="center">Definitely Argsfried</h1>
 <div align="center">
   <a href="https://github.com/Argsfried">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=Argsfried)](https://git.io/streak-stats)
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Argsfried&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Argsfried&layout=compact&langs_count=7&theme=dark"/>
 </div>
