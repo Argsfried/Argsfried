@@ -1,9 +1,12 @@
-<h1 align="center">Definitely Argsfried</h1>
-<div align="center">
-  <a href="https://github.com/Argsfried">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Argsfried&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Argsfried&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<h1> Definitely Argsfried</h1>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Argsfried&theme=radical&background=0A0A0A&stroke=CDB4DB&ring=CDB4DB&currStreakNum=D3D3D3&sideNums=D3D3D3&dates=CDB4DB)](https://git.io/streak-stats)
+<br />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Argsfried&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Sajidul Kbair Github Stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Argsfried&layout=compact&theme=dark&bg_color=0A0A0A" alt="Sajidul Kabir Top Languages"/>
+
 <br>
 <div align ="center"> 
   <a href="https://www.instagram.com/Argsfriedd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
