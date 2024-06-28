@@ -1,4 +1,4 @@
-<h1> Definitely Argsfried</h1>
+<h1>Argsfried</h1>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Argsfried&theme=radical&background=0A0A0A&stroke=CDB4DB&ring=CDB4DB&currStreakNum=D3D3D3&sideNums=D3D3D3&dates=CDB4DB)](https://git.io/streak-stats)
 <br />
