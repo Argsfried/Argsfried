@@ -1,6 +1,6 @@
 <h1>Argsfried</h1>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Argsfried&theme=radical&background=0A0A0A&stroke=CDB4DB&ring=CDB4DB&currStreakNum=D3D3D3&sideNums=D3D3D3&dates=CDB4DB)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Argsfried&theme=dark)](https://git.io/streak-stats)
 <br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Argsfried&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Argsfried Github Stats">
