@@ -1,7 +1,6 @@
 <h1>Argsfried</h1>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Argsfried&theme=dark)](https://git.io/streak-stats)
-
 <br />
 
 ![Argsfried's GitHub stats](https://github-readme-stats.vercel.app/api?username=Argsfried&theme=dark&show_icons=true&include_all_commits=true)
