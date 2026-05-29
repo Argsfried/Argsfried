@@ -3,10 +3,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Argsfried&theme=dark)](https://git.io/streak-stats)
 <br />
 
-![Argsfried's GitHub stats](https://github-readme-stats.vercel.app/api?username=Argsfried&theme=dark&show_icons=true&include_all_commits=true)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Argsfried&layout=compact&theme=dark&bg_color=0A0A0A" alt="Argsfried Top Languages"/>
-
 <br>
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
